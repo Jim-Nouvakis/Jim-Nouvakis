@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jim-Nouvakis
-- 👀 I’m interested in JS, React, Node.JS 
+- 👀 I’m working mostly with  JS, React and Typescript
 - 🌱 I’m currently learning Node.JS, MongoDB
 - 💞️ I’m looking to collaborate on several projects
 - 📫 How to reach me : dimitrisnouv@gmail.com
