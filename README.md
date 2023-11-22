@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jim-Nouvakis
-- 👀 I’m working mostly with  JS, React and Typescript
-- 🌱 I’m currently learning Node.JS, MongoDB
-- 💞️ I’m looking to collaborate on several projects
+- 👀 I’m working mostly with  JS, React, React Native and Typescript
+- 💞️ I’m a freelance frontend engineer, with experience mostly in the fintech sector
 - 📫 How to reach me : dimitrisnouv@gmail.com
 
 <!---
